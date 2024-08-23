@@ -7,9 +7,8 @@ Welcome to my corner of the web! I'm Mohammed Alouani, a **Creative Landing Page
 ---
 
 ### 🎯 **What I Do Best:**
-
-- **Landing Page Development:** Bringing startup visions to life with visually stunning, high-converting landing pages.
 - **App Development:** Building seamless, user-friendly applications that align with business goals and user needs.
+- **Landing Page Development:** Bringing startup visions to life with visually stunning, high-converting landing pages.
 - **Full-Stack Development:** Expertise in both frontend and backend, ensuring cohesive and robust digital solutions.
 
 ---
@@ -32,7 +31,7 @@ Welcome to my corner of the web! I'm Mohammed Alouani, a **Creative Landing Page
 
 ### 💻 **Tech Stack:**
 
-[![My Skills](https://skillicons.dev/icons?i=flutter,firebase,html,css,js,nodejs,python,github,vscode&perline=8)](#)
+[![My Skills](https://skillicons.dev/icons?i=flutter,firebase,css,js,nodejs,python,github,vscode&perline=8)](#)
 
 ---
 
